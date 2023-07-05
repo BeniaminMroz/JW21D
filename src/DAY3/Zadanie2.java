@@ -1,17 +1,17 @@
-//package DAY3;
-//
-//public class Zadanie2 {
-//    public static void main(String[] args) {
-//
-//        System.out.println(Zadanie2DrugaKlasa.height);
-//        System.out.println(Zadanie2DrugaKlasa.weight);
-//        System.out.println(Zadanie2DrugaKlasa.depoth);
-//    }
-//
-//}
+package DAY3;
 
-///* Solution to Chapter 3, Exercise 2 in Teach Yourself Java in 21 Days (Eighth
-//   Edition) by Rogers Cadenhead. */
+public class Zadanie2 {
+    public static void main(String[] args) {
+
+        System.out.println(Zadanie2DrugaKlasa.height);
+        System.out.println(Zadanie2DrugaKlasa.weight);
+        System.out.println(Zadanie2DrugaKlasa.depoth);
+    }
+
+}
+
+/* Solution to Chapter 3, Exercise 2 in Teach Yourself Java in 21 Days (Eighth
+   Edition) by Rogers Cadenhead. */
 //package DAY3;
 //
 //class Sampler {

@@ -1,14 +1,14 @@
-//package DAY3;
-//
-//public class Zadanie2DrugaKlasa {
-//
-//     static int height = 2;
-//     static int weight = 100;
-//     static int depoth = 1;
-//}
+package DAY3;
 
-///* Solution to Chapter 3, Exercise 2 in Teach Yourself Java in 21 Days (Eighth
-//   Edition) by Rogers Cadenhead. */
+public class Zadanie2DrugaKlasa {
+
+    static int height = 2;
+    static int weight = 100;
+    static int depoth = 1;
+}
+
+/* Solution to Chapter 3, Exercise 2 in Teach Yourself Java in 21 Days (Eighth
+   Edition) by Rogers Cadenhead. */
 //package DAY3;
 //
 //class Zadanie2DrugaKlasa {
